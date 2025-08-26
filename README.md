@@ -24,3 +24,8 @@ Your goal is to guess the exact code before you run out of tries!
 ```bash
 git clone https://github.com/<username>/Mastermind_game.git
 cd Mastermind_game
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/<username>/Mastermind_game.git
+cd Mastermind_game
