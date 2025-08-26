@@ -24,6 +24,7 @@ Your goal is to guess the exact code before you run out of tries!
 ```bash
 git clone https://github.com/<username>/Mastermind_game.git
 cd Mastermind_game
+```
 
 2. Run the Game
 Make sure you have Python 3 installed, then run:
