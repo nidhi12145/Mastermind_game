@@ -26,7 +26,7 @@ git clone https://github.com/<username>/Mastermind_game.git
 cd Mastermind_game
 ```
 
-2. Run the Game
+### 2. Run the Game
 Make sure you have Python 3 installed, then run:
 ```
 python mastermind.py
